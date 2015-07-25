@@ -1,11 +1,11 @@
 # POK3R keyboard layouts for Windows and OSX
 
-The default layer is not configurable in the POK3R keyboard, so I chose the following layers to use this keyboard in either OS:
+The following layers are used in either OS:
 * Windows: Layer 2 (blue LED), switch to it with: `FN + ,<`
 * OSX: Layer 3 (red LED), switch with: `FN + .>`
 
 ## General POK3R programming info
-* POK3R User Manual](http://www.vortexgear.tw/db/upload/webdata4/vortex_20156296454697283.pdf) on Vortex's site
+* [POK3R User Manual](http://www.vortexgear.tw/db/upload/webdata4/vortex_20156296454697283.pdf) on Vortex's site
 * Factory reset: Hold both the left and right `ALT` keys
 * Reset selected layer only: `FN + R` until LED under spacebar stops flashing
 
@@ -49,8 +49,6 @@ Resulting programming:
 * Plugin keyboard again, then press `FN` then: `L_Ctrl` then: `PN` then: `PN` (to leave it in its original location)
 * DIP switch 4 back to OFF (no need to unplug)
 
-The how-to for these mappings is from 2 reddit thread:
+The how-to for these mappings is from 2 reddit threads:
 * [r/mk: HowTo program pok3r](http://www.reddit.com/r/MechanicalKeyboards/comments/35uy60/guide_howto_program_your_pok3r_programming_layers/)
 * [r/mk: HowTo media controls pok3r](http://www.reddit.com/r/MechanicalKeyboards/comments/37j3sx/guide_modification_pok3r_media_volume_controls_hw/)
-
-
