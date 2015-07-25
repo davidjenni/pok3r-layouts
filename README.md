@@ -39,6 +39,7 @@ The following layers are used in either OS:
   * R_CMD: `R_Alt` then: `R_FN` (Win) then: `PN`
   * R_Option: `R_FN` (Win) then: `R_Alt` then: `PN`
 * FN + R_Ctrl to exit programming
+
 Resulting programming:
 (http://www.keyboard-layout-editor.com/#/layouts/e382fdeb70646d636f373933462f2c75)
 
