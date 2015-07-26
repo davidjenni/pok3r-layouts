@@ -1,4 +1,6 @@
 # POK3R keyboard layouts for Windows and OSX
+For those who don't know what a POK3R keyboard is, this is a decent [review](https://www.youtube.com/watch?v=8wjW-Or1jg8).
+Multiple sources to buy, e.g. [amazon](http://smile.amazon.com/Mechanical-Keyboard-Keycaps-Cherry-Mx-Blue/dp/B00OFM51L2/), [mechanicalkeyboards.com](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1233)
 
 The following layers are used in either OS:
 * Windows: Layer 2 (blue LED), switch to it with: `FN + ,<`
