@@ -69,6 +69,7 @@ HJKL as cursor keys are more ergonomical to reach by moving the FN to the left C
 * Plugin keyboard again, then press `FN` then: `L_Ctrl` then: `PN` then: `PN` (to leave it in its original location)
 * DIP switch 4 back to OFF (no need to unplug)
 
+## Sources
 The how-to for these mappings is from 2 reddit threads:
 * [r/mk: HowTo program pok3r](http://www.reddit.com/r/MechanicalKeyboards/comments/35uy60/guide_howto_program_your_pok3r_programming_layers/)
 * [r/mk: HowTo media controls pok3r](http://www.reddit.com/r/MechanicalKeyboards/comments/37j3sx/guide_modification_pok3r_media_volume_controls_hw/)
