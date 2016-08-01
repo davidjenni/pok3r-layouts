@@ -7,7 +7,7 @@ The following layers are used in either OS:
 * OSX: Layer 3 (red LED), switch with: `FN + .>`
 
 ## General POK3R programming info
-* [POK3R User Manual](http://www.vortexgear.tw/db/upload/webdata4/vortex_20156296454697283.pdf) on Vortex's site
+* [POK3R User Manual](files\POK3R.User.Manual.V1.5.pdf); Vortex keeps shifting their URLs, so local copy (thanks @couto, @josephfusco)
 * Factory reset: Hold both the left and right `ALT` keys
 * Reset selected layer only: `FN + R` until LED under spacebar stops flashing
 
