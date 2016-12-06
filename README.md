@@ -47,8 +47,8 @@ OSX Layout on [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com
 
 ## <a name="common_bindings"></a>Common key bindings for all OSs
 * CapsLock always as Ctrl:
-  * `CapsLock` then: `L_Ctrl` then: `PN` to confirm
-  * `FN + CapsLock` then: `L_Ctrl` then: `PN` to confirm
+  * `CapsLock` then: `R_Ctrl` then: `PN` to confirm
+  * `FN + CapsLock` then: `R_Ctrl` then: `PN` to confirm
 * VIM like HJKL and Page Up/Down:
   * Left: `FN + H` then: `FN + J` then: `PN`
   * Down: `FN + J` then: `FN + K` then: `PN`
