@@ -6,6 +6,9 @@ The following layers are used in either OS:
 * Windows: Layer 2 (blue LED), switch to it with: `FN + ,<`
 * OSX: Layer 3 (red LED), switch with: `FN + .>`
 
+## ISO-Layout notice
+Please notice that the `PN` key is the same as `Menu`
+
 ## General POK3R programming info
 * [POK3R User Manual](files\POK3R.User.Manual.V1.5.pdf); Vortex keeps shifting their URLs, so local copy (thanks @couto, @josephfusco)
 * Factory reset: Hold both the left and right `ALT` keys
