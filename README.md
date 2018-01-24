@@ -7,7 +7,7 @@ The following layers are used in either OS:
 * OSX: Layer 3 (red LED), switch with: `FN + .>`
 
 ## General POK3R programming info
-* [POK3R User Manual](files\POK3R.User.Manual.V1.5.pdf); Vortex keeps shifting their URLs, so local copy (thanks @couto, @josephfusco)
+* [POK3R User Manual](files/POK3R.User.Manual.V1.5.pdf); Vortex keeps shifting their URLs, so local copy (thanks @couto, @josephfusco)
 * Factory reset: Hold both the left and right `ALT` keys
 * Reset selected layer only: `FN + R` until LED under spacebar stops flashing
 
@@ -66,7 +66,7 @@ HJKL as cursor keys are more ergonomical to reach by moving the FN to the left C
 * Switch to Layer 2 (or 3, 4); this programming is per layer
 * Unplug keyboard
 * DIP switch 4 to ON
-* Plugin keyboard again, then press `FN` then: `L_Ctrl` then: `PN` then: `PN` (to leave it in its original location)
+* Plug in keyboard again, then press `FN` then: `L_Ctrl` then: `PN` then: `PN` (to leave it in its original location)
 * DIP switch 4 back to OFF (no need to unplug)
 
 ## Sources
